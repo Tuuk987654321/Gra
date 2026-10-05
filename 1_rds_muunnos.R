@@ -1,7 +1,7 @@
 library(data.table)
 
 # Lataa .RData-tiedosto
-load("~/Documents/Gradu_paikallinen/hunter_code/enlargement.discourse.replication.EUP.July25.RData")
+load("xxx/hunter_code/enlargement.discourse.replication.EUP.July25.RData")
 
 # Tarkista, että objekti löytyy
 ls()
